@@ -1,0 +1,459 @@
+[
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconst a = 'a';\nreturn typeof a;\n```",
+      "pilihan": ["string", "number", "boolean", "undefined"],
+      "jawaban": "string",
+      "deskripsi": "Variabel 'a' adalah string, sehingga 'typeof a' akan menghasilkan 'string'."
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(typeof []);\n```",
+      "pilihan": ["array", "object", "undefined", "null"],
+      "jawaban": "object",
+      "deskripsi": "Di JavaScript, array adalah objek, sehingga 'typeof []' akan mengembalikan 'object'."
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nfunction test() {\n  console.log(this);\n}\ntest();\n```",
+      "pilihan": ["window (di browser) atau global (di Node.js)", "undefined", "null", "function"],
+      "jawaban": "window (di browser) atau global (di Node.js)",
+      "deskripsi": "'this' dalam fungsi biasa di mode non-strict akan merujuk ke objek global (window di browser atau global di Node.js)."
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(2 + '2' - 1);\n```",
+      "pilihan": ["21", "3", "NaN", "22"],
+      "jawaban": "21",
+      "deskripsi": "Operasi '2 + '2'' akan menghasilkan string '22', kemudian dikurangi 1 ('22' - 1) akan dikonversi ke angka, sehingga hasilnya 21."
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([] == false);\n```",
+      "pilihan": ["true", "false", "error", "undefined"],
+      "jawaban": "true",
+      "deskripsi": "Dalam JavaScript, array kosong '[]' dikonversi ke string kosong '', yang kemudian dikonversi ke angka 0. Karena 'false' juga bernilai 0, perbandingan menjadi true."
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(typeof null);\n```",
+      "pilihan": ["null", "object", "undefined", "boolean"],
+      "jawaban": "object",
+      "deskripsi": "Di JavaScript, 'typeof null' mengembalikan 'object' karena alasan historis.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a + b)\n}\n```",
+      "pilihan": ["10", "20", "30", "40"],
+      "jawaban": "30",
+      "deskripsi": "Kode ini menjumlahkan dua variabel integer a dan b, hasilnya adalah 30.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint(type(42))\n```",
+      "pilihan": ["<class 'int'>", "<class 'float'>", "<class 'str'>", "<class 'list'>"],
+      "jawaban": "<class 'int'>",
+      "deskripsi": "Di Python, angka 42 adalah integer, sehingga 'type(42)' mengembalikan '<class 'int'>'.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 5;\n    int b = 10;\n    printf(\"%d\", a + b);\n    return 0;\n}\n```",
+      "pilihan": ["5", "10", "15", "20"],
+      "jawaban": "15",
+      "deskripsi": "Kode ini menjumlahkan dua variabel integer a dan b, hasilnya adalah 15.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('5' - 3);\n```",
+      "pilihan": ["2", "8", "NaN", "53"],
+      "jawaban": "2",
+      "deskripsi": "Dalam JavaScript, '5' - 3 akan mengkonversi string '5' menjadi angka 5, sehingga hasilnya adalah 2.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a string = \"Hello\"\n    var b string = \"World\"\n    fmt.Println(a + \" \" + b)\n}\n```",
+      "pilihan": ["HelloWorld", "Hello World", "Hello", "World"],
+      "jawaban": "Hello World",
+      "deskripsi": "Kode ini menggabungkan dua string a dan b dengan spasi di antara mereka, hasilnya adalah 'Hello World'.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint(3 * '7')\n```",
+      "pilihan": ["21", "777", "37", "Error"],
+      "jawaban": "777",
+      "deskripsi": "Di Python, mengalikan string dengan angka akan mengulangi string tersebut, sehingga '3 * '7'' menghasilkan '777'.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 3;\n    printf(\"%d\", a / b);\n    return 0;\n}\n```",
+      "pilihan": ["3", "3.3333", "10", "Error"],
+      "jawaban": "3",
+      "deskripsi": "Dalam C, pembagian dua integer menghasilkan integer, sehingga 10 / 3 adalah 3.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(typeof function(){});\n```",
+      "pilihan": ["function", "object", "undefined", "string"],
+      "jawaban": "function",
+      "deskripsi": "Di JavaScript, 'typeof function(){}' mengembalikan 'function'.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a float64 = 5.5\n    var b float64 = 2.2\n    fmt.Println(a * b)\n}\n```",
+      "pilihan": ["7.7", "12.1", "11.0", "Error"],
+      "jawaban": "12.1",
+      "deskripsi": "Kode ini mengalikan dua variabel float64 a dan b, hasilnya adalah 12.1.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint(len('Hello World'))\n```",
+      "pilihan": ["10", "11", "12", "13"],
+      "jawaban": "11",
+      "deskripsi": "Di Python, 'len' mengembalikan panjang string, sehingga 'len('Hello World')' adalah 11.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a * b);\n    return 0;\n}\n```",
+      "pilihan": ["30", "200", "10", "20"],
+      "jawaban": "200",
+      "deskripsi": "Kode ini mengalikan dua variabel integer a dan b, hasilnya adalah 200.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(0.1 + 0.2 === 0.3);\n```",
+      "pilihan": ["true", "false", "undefined", "NaN"],
+      "jawaban": "false",
+      "deskripsi": "Dalam JavaScript, 0.1 + 0.2 tidak persis sama dengan 0.3 karena masalah presisi floating-point.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a bool = true\n    var b bool = false\n    fmt.Println(a && b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "false",
+      "deskripsi": "Kode ini melakukan operasi logika AND pada dua variabel boolean a dan b, hasilnya adalah false.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint(2 ** 3)\n```",
+      "pilihan": ["6", "8", "9", "Error"],
+      "jawaban": "8",
+      "deskripsi": "Di Python, '**' adalah operator eksponensial, sehingga 2 ** 3 adalah 8.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 3;\n    printf(\"%d\", a % b);\n    return 0;\n}\n```",
+      "pilihan": ["1", "2", "3", "Error"],
+      "jawaban": "1",
+      "deskripsi": "Dalam C, operator '%' adalah operator modulus, sehingga 10 % 3 adalah 1.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].length);\n```",
+      "pilihan": ["2", "3", "4", "undefined"],
+      "jawaban": "3",
+      "deskripsi": "Dalam JavaScript, properti 'length' dari array mengembalikan jumlah elemen dalam array, sehingga [1, 2, 3].length adalah 3.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 3\n    fmt.Println(a / b)\n}\n```",
+      "pilihan": ["3", "3.3333", "10", "Error"],
+      "jawaban": "3",
+      "deskripsi": "Dalam Go, pembagian dua integer menghasilkan integer, sehingga 10 / 3 adalah 3.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello' + ' ' + 'World')\n```",
+      "pilihan": ["HelloWorld", "Hello World", "Hello", "World"],
+      "jawaban": "Hello World",
+      "deskripsi": "Di Python, operator '+' menggabungkan string, sehingga 'Hello' + ' ' + 'World' adalah 'Hello World'.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 5;\n    int b = 2;\n    printf(\"%d\", a - b);\n    return 0;\n}\n```",
+      "pilihan": ["3", "7", "5", "2"],
+      "jawaban": "3",
+      "deskripsi": "Kode ini mengurangi variabel integer b dari a, hasilnya adalah 3.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('Hello'.toUpperCase());\n```",
+      "pilihan": ["HELLO", "hello", "Hello", "Error"],
+      "jawaban": "HELLO",
+      "deskripsi": "Dalam JavaScript, metode 'toUpperCase' mengubah semua huruf dalam string menjadi huruf besar, sehingga 'Hello'.toUpperCase() adalah 'HELLO'.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a > b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "false",
+      "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah false karena 10 tidak lebih besar dari 20.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint(10 // 3)\n```",
+      "pilihan": ["3", "3.3333", "10", "Error"],
+      "jawaban": "3",
+      "deskripsi": "Di Python, operator '//' adalah operator pembagian integer, sehingga 10 // 3 adalah 3.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a + b);\n    return 0;\n}\n```",
+      "pilihan": ["10", "20", "30", "40"],
+      "jawaban": "30",
+      "deskripsi": "Kode ini menjumlahkan dua variabel integer a dan b, hasilnya adalah 30.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].indexOf(2));\n```",
+      "pilihan": ["0", "1", "2", "undefined"],
+      "jawaban": "1",
+      "deskripsi": "Dalam JavaScript, metode 'indexOf' mengembalikan indeks pertama dari elemen yang ditemukan dalam array, sehingga [1, 2, 3].indexOf(2) adalah 1.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a < b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "true",
+      "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah true karena 10 lebih kecil dari 20.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.lower())\n```",
+      "pilihan": ["hello", "HELLO", "Hello", "Error"],
+      "jawaban": "hello",
+      "deskripsi": "Di Python, metode 'lower' mengubah semua huruf dalam string menjadi huruf kecil, sehingga 'Hello'.lower() adalah 'hello'.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a - b);\n    return 0;\n}\n```",
+      "pilihan": ["-10", "10", "30", "40"],
+      "jawaban": "-10",
+      "deskripsi": "Kode ini mengurangi variabel integer b dari a, hasilnya adalah -10.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('Hello'.length);\n```",
+      "pilihan": ["4", "5", "6", "undefined"],
+      "jawaban": "5",
+      "deskripsi": "Dalam JavaScript, properti 'length' dari string mengembalikan jumlah karakter dalam string, sehingga 'Hello'.length adalah 5.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a == b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "false",
+      "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah false karena 10 tidak sama dengan 20.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.upper())\n```",
+      "pilihan": ["HELLO", "hello", "Hello", "Error"],
+      "jawaban": "HELLO",
+      "deskripsi": "Di Python, metode 'upper' mengubah semua huruf dalam string menjadi huruf besar, sehingga 'Hello'.upper() adalah 'HELLO'.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a * b);\n    return 0;\n}\n```",
+      "pilihan": ["30", "200", "10", "20"],
+      "jawaban": "200",
+      "deskripsi": "Kode ini mengalikan dua variabel integer a dan b, hasilnya adalah 200.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].includes(2));\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "true",
+      "deskripsi": "Dalam JavaScript, metode 'includes' memeriksa apakah array berisi elemen tertentu, sehingga [1, 2, 3].includes(2) adalah true.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a != b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "true",
+      "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah true karena 10 tidak sama dengan 20.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello World'.split())\n```",
+      "pilihan": [["Hello", "World"], ["HelloWorld"], ["Hello", " World"], ["Error"]],
+      "jawaban": ["Hello", "World"],
+      "deskripsi": "Di Python, metode 'split' memisahkan string menjadi daftar berdasarkan spasi, sehingga 'Hello World'.split() adalah ['Hello', 'World'].",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a / b);\n    return 0;\n}\n```",
+      "pilihan": ["0", "0.5", "10", "20"],
+      "jawaban": "0",
+      "deskripsi": "Dalam C, pembagian dua integer menghasilkan integer, sehingga 10 / 20 adalah 0.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(typeof NaN);\n```",
+      "pilihan": ["number", "NaN", "undefined", "object"],
+      "jawaban": "number",
+      "deskripsi": "Di JavaScript, 'typeof NaN' mengembalikan 'number' karena NaN adalah nilai numerik.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 5\n    var b int = 2\n    fmt.Println(a % b)\n}\n```",
+      "pilihan": ["1", "2", "3", "Error"],
+      "jawaban": "1",
+      "deskripsi": "Kode ini menghitung sisa pembagian dua variabel integer a dan b, hasilnya adalah 1.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello' * 3)\n```",
+      "pilihan": ["HelloHelloHello", "Hello3", "Hello", "Error"],
+      "jawaban": "HelloHelloHello",
+      "deskripsi": "Di Python, mengalikan string dengan angka akan mengulangi string tersebut, sehingga 'Hello' * 3 menghasilkan 'HelloHelloHello'.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 3;\n    printf(\"%d\", a % b);\n    return 0;\n}\n```",
+      "pilihan": ["1", "2", "3", "Error"],
+      "jawaban": "1",
+      "deskripsi": "Dalam C, operator '%' adalah operator modulus, sehingga 10 % 3 adalah 1.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('5' + 3);\n```",
+      "pilihan": ["53", "8", "NaN", "Error"],
+      "jawaban": "53",
+      "deskripsi": "Dalam JavaScript, '5' + 3 akan mengkonversi angka 3 menjadi string dan menggabungkannya, sehingga hasilnya adalah '53'.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a bool = true\n    var b bool = false\n    fmt.Println(a || b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "true",
+      "deskripsi": "Kode ini melakukan operasi logika OR pada dua variabel boolean a dan b, hasilnya adalah true.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint(10 % 3)\n```",
+      "pilihan": ["1", "2", "3", "Error"],
+      "jawaban": "1",
+      "deskripsi": "Di Python, operator '%' adalah operator modulus, sehingga 10 % 3 adalah 1.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 3;\n    printf(\"%d\", a / b);\n    return 0;\n}\n```",
+      "pilihan": ["3", "3.3333", "10", "Error"],
+      "jawaban": "3",
+      "deskripsi": "Dalam C, pembagian dua integer menghasilkan integer, sehingga 10 / 3 adalah 3.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].pop());\n```",
+      "pilihan": ["1", "2", "3", "undefined"],
+      "jawaban": "3",
+      "deskripsi": "Dalam JavaScript, metode 'pop' menghapus elemen terakhir dari array dan mengembalikannya, sehingga [1, 2, 3].pop() adalah 3.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a <= b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "true",
+      "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah true karena 10 lebih kecil atau sama dengan 20.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.find('e'))\n```",
+      "pilihan": ["0", "1", "2", "Error"],
+      "jawaban": "1",
+      "deskripsi": "Di Python, metode 'find' mengembalikan indeks pertama dari substring yang ditemukan dalam string, sehingga 'Hello'.find('e') adalah 1.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a - b);\n    return 0;\n}\n```",
+      "pilihan": ["-10", "10", "30", "40"],
+      "jawaban": "-10",
+      "deskripsi": "Kode ini mengurangi variabel integer b dari a, hasilnya adalah -10.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('Hello'.charAt(1));\n```",
+      "pilihan": ["H", "e", "l", "Error"],
+      "jawaban": "e",
+      "deskripsi": "Dalam JavaScript, metode 'charAt' mengembalikan karakter pada indeks tertentu dalam string, sehingga 'Hello'.charAt(1) adalah 'e'.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a >= b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "false",
+      "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah false karena 10 tidak lebih besar atau sama dengan 20.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello World'.replace('World', 'Python'))\n```",
+      "pilihan": ["Hello Python", "Hello World", "Python World", "Error"],
+      "jawaban": "Hello Python",
+      "deskripsi": "Di Python, metode 'replace' menggantikan substring dalam string dengan substring lain, sehingga 'Hello World'.replace('World', 'Python') adalah 'Hello Python'.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a + b);\n    return 0;\n}\n```",
+      "pilihan": ["10", "20", "30", "40"],
+      "jawaban": "30",
+      "deskripsi": "Kode ini menjumlahkan dua variabel integer a dan b, hasilnya adalah 30.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].shift());\n```",
+      "pilihan": ["1", "2", "3", "undefined"],
+      "jawaban": "1",
+      "deskripsi": "Dalam JavaScript, metode 'shift' menghapus elemen pertama dari array dan mengembalikannya, sehingga [1, 2, 3].shift() adalah 1.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a == b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "false",
+      "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah false karena 10 tidak sama dengan 20.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.startswith('H'))\n```",
+      "pilihan": ["True", "False", "Error", "None"],
+      "jawaban": "True",
+      "deskripsi": "Di Python, metode 'startswith' memeriksa apakah string dimulai dengan substring tertentu, sehingga 'Hello'.startswith('H') adalah True.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a * b);\n    return 0;\n}\n```",
+      "pilihan": ["30", "200", "10", "20"],
+      "jawaban": "200",
+      "deskripsi": "Kode ini mengalikan dua variabel integer a dan b, hasilnya adalah 200.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].unshift(0));\n```",
+      "pilihan": ["0", "1", "2", "4"],
+      "jawaban": "4",
+      "deskripsi": "Dalam JavaScript, metode 'unshift' menambahkan elemen ke awal array dan mengembalikan panjang baru array, sehingga [1, 2, 3].unshift(0) adalah 4.",
+      "bahasa": "Js"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a != b)\n}\n```",
+      "pilihan": ["true", "false", "undefined", "Error"],
+      "jawaban": "true",
+      "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah true karena 10 tidak sama dengan 20.",
+      "bahasa": "Golang"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.endswith('o'))\n```",
+      "pilihan": ["True", "False", "Error", "None"],
+      "jawaban": "True",
+      "deskripsi": "Di Python, metode 'endswith' memeriksa apakah string diakhiri dengan substring tertentu, sehingga 'Hello'.endswith('o') adalah True.",
+      "bahasa": "Python"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a / b);\n    return 0;\n}\n```",
+      "pilihan": ["0", "0.5", "10", "20"],
+      "jawaban": "0",
+      "deskripsi": "Dalam C, pembagian dua integer menghasilkan integer, sehingga 10 / 20 adalah 0.",
+      "bahasa": "C"
+    },
+    {
+      "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].reverse());\n```",
+      "pilihan": ["[1, 2, 3]", "[3, 2, 1]", "[2, 1, 3]", "Error"],
+      "jawaban": "[3, 2, 1]",
+      "deskripsi": "Dalam JavaScript, metode 'reverse' membalik urutan elemen dalam array, sehingga [1, 2, 3].reverse() adalah [3, 2, 1].",
+      "bahasa": "Js"
+    }
+]
