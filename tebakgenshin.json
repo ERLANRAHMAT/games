@@ -1,0 +1,427 @@
+[
+    {
+        "img": "https://files.catbox.moe/zrx9mj.jpg",
+        "jawaban": "Aether",
+        "deskripsi": "element: Anemo, region: Traveler"
+    },
+    {
+        "img": "https://files.catbox.moe/0dkyt3.jpg",
+        "jawaban": "Lumine",
+        "deskripsi": "element: Anemo, region: Traveler"
+    },
+    {
+        "img": "https://files.catbox.moe/vbqk1f.jpg",
+        "jawaban": "Albedo",
+        "deskripsi": "element: Geo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/rmewy9.jpg",
+        "jawaban": "Amber",
+        "deskripsi": "element: Pyro, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/mr87oh.jpg",
+        "jawaban": "Barbara",
+        "deskripsi": "element: Hydro, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/o2e94o.jpg",
+        "jawaban": "Beidou",
+        "deskripsi": "element: Electro, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/6tth1b.jpg",
+        "jawaban": "Bennett",
+        "deskripsi": "element: Pyro, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/hntc3j.jpg",
+        "jawaban": "Chongyun",
+        "deskripsi": "element: Cryo, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/wnbbru.jpg",
+        "jawaban": "Diluc",
+        "deskripsi": "element: Pyro, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/dtgg5m.jpg",
+        "jawaban": "Diona",
+        "deskripsi": "element: Cryo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/by6d4i.jpg",
+        "jawaban": "Eula",
+        "deskripsi": "element: Cryo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/bpj43b.jpg",
+        "jawaban": "Fischl",
+        "deskripsi": "element: Electro, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/iqy2c2.jpg",
+        "jawaban": "Ganyu",
+        "deskripsi": "element: Cryo, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/muunjm.jpg",
+        "jawaban": "Hu Tao",
+        "deskripsi": "element: Pyro, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/jpdea1.jpg",
+        "jawaban": "Jean",
+        "deskripsi": "element: Anemo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/fx65cm.jpg",
+        "jawaban": "Kaeya",
+        "deskripsi": "element: Cryo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/u5twuw.jpg",
+        "jawaban": "Keqing",
+        "deskripsi": "element: Electro, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/pj76z7.jpg",
+        "jawaban": "Klee",
+        "deskripsi": "element: Pyro, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/lz1dy7.jpg",
+        "jawaban": "Lisa",
+        "deskripsi": "element: Electro, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/rm1riy.jpg",
+        "jawaban": "Mona",
+        "deskripsi": "element: Hydro, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/27npu8.jpg",
+        "jawaban": "Ningguang",
+        "deskripsi": "element: Geo, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/y5q6wd.jpg",
+        "jawaban": "Noelle",
+        "deskripsi": "element: Geo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/qlx9v2.jpg",
+        "jawaban": "Qiqi",
+        "deskripsi": "element: Cryo, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/jgn113.jpg",
+        "jawaban": "Razor",
+        "deskripsi": "element: Electro, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/bsnl79.jpg",
+        "jawaban": "Rosaria",
+        "deskripsi": "element: Cryo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/py2i7a.jpg",
+        "jawaban": "Sucrose",
+        "deskripsi": "element: Anemo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/ka5b1b.jpg",
+        "jawaban": "Tartaglia",
+        "deskripsi": "element: Hydro, region: Snezhnaya"
+    },
+    {
+        "img": "https://files.catbox.moe/32zbup.jpg",
+        "jawaban": "Venti",
+        "deskripsi": "element: Anemo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/4hxgej.jpg",
+        "jawaban": "Xiangling",
+        "deskripsi": "element: Pyro, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/ko1hhd.jpg",
+        "jawaban": "Xiao",
+        "deskripsi": "element: Anemo, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/7cjlpk.jpg",
+        "jawaban": "Xingqiu",
+        "deskripsi": "element: Hydro, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/g3g4rd.jpg",
+        "jawaban": "Xinyan",
+        "deskripsi": "element: Pyro, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/u7l5f3.jpg",
+        "jawaban": "Yanfei",
+        "deskripsi": "element: Pyro, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/rs69t2.jpg",
+        "jawaban": "Zhongli",
+        "deskripsi": "element: Geo, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/zpbkgu.jpg",
+        "jawaban": "Ayaka",
+        "deskripsi": "element: Cryo, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/79ncr5.jpg",
+        "jawaban": "Yoimiya",
+        "deskripsi": "element: Pyro, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/wneums.jpg",
+        "jawaban": "Sayu",
+        "deskripsi": "element: Anemo, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/5hra8v.jpg",
+        "jawaban": "Raiden Shogun",
+        "deskripsi": "element: Electro, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/wyo14q.jpg",
+        "jawaban": "Kujou Sara",
+        "deskripsi": "element: Electro, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/6zvw9w.jpg",
+        "jawaban": "Sangonomiya Kokomi",
+        "deskripsi": "element: Hydro, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/5itlmo.jpg",
+        "jawaban": "Thoma",
+        "deskripsi": "element: Pyro, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/c4zovm.jpg",
+        "jawaban": "Arataki Itto",
+        "deskripsi": "element: Geo, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/01i5wh.jpg",
+        "jawaban": "Gorou",
+        "deskripsi": "element: Geo, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/1doo1q.jpg",
+        "jawaban": "Shenhe",
+        "deskripsi": "element: Cryo, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/glgmx7.jpg",
+        "jawaban": "Yun Jin",
+        "deskripsi": "element: Geo, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/m1oyri.jpg",
+        "jawaban": "Yae Miko",
+        "deskripsi": "element: Electro, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/sclba2.jpg",
+        "jawaban": "Kamisato Ayato",
+        "deskripsi": "element: Hydro, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/o9nvto.jpg",
+        "jawaban": "Kuki Shinobu",
+        "deskripsi": "element: Electro, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/omluph.jpg",
+        "jawaban": "Shikanoin Heizou",
+        "deskripsi": "element: Anemo, region: Inazuma"
+    },
+    {
+        "img": "https://files.catbox.moe/zppb8y.jpg",
+        "jawaban": "Tighnari",
+        "deskripsi": "element: Dendro, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/xbvw4d.jpg",
+        "jawaban": "Collei",
+        "deskripsi": "element: Dendro, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/p9b3qa.jpg",
+        "jawaban": "Dori",
+        "deskripsi": "element: Electro, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/zwkz9j.jpg",
+        "jawaban": "Cyno",
+        "deskripsi": "element: Electro, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/i9eddp.jpg",
+        "jawaban": "Nilou",
+        "deskripsi": "element: Hydro, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/t9gby4.jpg",
+        "jawaban": "Candace",
+        "deskripsi": "element: Hydro, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/e34dur.jpg",
+        "jawaban": "Nahida",
+        "deskripsi": "element: Dendro, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/9ucwik.jpg",
+        "jawaban": "Layla",
+        "deskripsi": "element: Cryo, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/907os2.jpg",
+        "jawaban": "Wanderer",
+        "deskripsi": "element: Anemo, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/f29cki.jpg",
+        "jawaban": "Faruzan",
+        "deskripsi": "element: Anemo, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/fsuj6q.jpg",
+        "jawaban": "Alhaitham",
+        "deskripsi": "element: Dendro, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/gcihay.jpg",
+        "jawaban": "Yaoyao",
+        "deskripsi": "element: Dendro, region: Liyue"
+    },
+    {
+        "img": "https://files.catbox.moe/j1akf9.jpg",
+        "jawaban": "Dehya",
+        "deskripsi": "element: Pyro, region: Sumeru"
+    },
+    {
+        "img": "https://files.catbox.moe/s8rd8d.jpg",
+        "jawaban": "Mika",
+        "deskripsi": "element: Cryo, region: Mondstadt"
+    },
+    {
+        "img": "https://files.catbox.moe/yf7vwr.jpg",
+        "jawaban": "Lyney",
+        "deskripsi": "element: Pyro, region: Fontaine"
+    },
+    {
+        "img": "https://files.catbox.moe/5bsra8.jpg",
+        "jawaban": "Lynette",
+        "deskripsi": "element: Anemo, region: Fontaine"
+    },
+    {
+        "img": "https://files.catbox.moe/map9u6.jpg",
+        "jawaban": "Freminet",
+        "deskripsi": "element: Cryo, region: Fontaine"
+    },
+    {
+        "img": "https://files.catbox.moe/yb4wkx.jpg",
+        "jawaban": "Navia",
+        "deskripsi": "element: Geo, region: Fontaine"
+    },
+    {
+        "img": "https://files.catbox.moe/ule0aw.jpg",
+        "jawaban": "Clorinde",
+        "deskripsi": "element: Electro, region: Fontaine"
+    },
+    {
+        "img": "https://files.catbox.moe/5d3dwh.jpg",
+        "jawaban": "Charlotte",
+        "deskripsi": "element: Cryo, region: Fontaine"
+    },
+    {
+        "img": "https://files.catbox.moe/ku009f.jpg",
+        "jawaban": "Wriothesley",
+        "deskripsi": "element: Cryo, region: Fontaine"
+    },
+    {
+        "img": "https://files.catbox.moe/j0pb89.jpg",
+        "jawaban": "Neuvillette",
+        "deskripsi": "element: Hydro, region: Fontaine"
+    },
+    {
+        "img": "https://files.catbox.moe/o1zgoj.jpg",
+        "jawaban": "Furina",
+        "deskripsi": "element: Hydro, region: Fontaine"
+    },
+    {
+        "img": "https://files.catbox.moe/blokfc.jpg",
+        "jawaban": "Iansan",
+        "deskripsi": "element: Pyro, region: Nathal"
+    },
+    {
+        "img": "https://files.catbox.moe/10fjli.jpg",
+        "jawaban": "Pulcinella",
+        "deskripsi": "element: Unknown, region: Snezhnaya"
+    },
+    {
+        "img": "https://files.catbox.moe/x1yb3s.jpg",
+        "jawaban": "Capitano",
+        "deskripsi": "element: Unknown, region: Snezhnaya"
+    },
+    {
+        "img": "https://files.catbox.moe/k0757j.jpeg",
+        "jawaban": "Columbina",
+        "deskripsi": "element: Unknown, region: Snezhnaya"
+    },
+    {
+        "img": "https://files.catbox.moe/feh4ca.jpeg",
+        "jawaban": "Dottore",
+        "deskripsi": "element: Unknown, region: Snezhnaya"
+    },
+    {
+        "img": "https://files.catbox.moe/4i7j81.jpeg",
+        "jawaban": "Arlecchino",
+        "deskripsi": "element: Unknown, region: Snezhnaya"
+    },
+    {
+        "img": "",
+        "jawaban": "Signora",
+        "deskripsi": "element: Cryo, region: Snezhnaya"
+    },
+    {
+        "img": "https://files.catbox.moe/8o03il.jpeg",
+        "jawaban": "Mondstadt",
+        "deskripsi": "region: Mondstadt, famous place: Mondstadt City"
+    },
+    {
+        "img": "https://files.catbox.moe/08sdsy.jpeg",
+        "jawaban": "Windrise",
+        "deskripsi": "region: Mondstadt, famous place: Windrise"
+    },
+    {
+        "img": "https://files.catbox.moe/fyzexo.jpeg",
+        "jawaban": "Dawn Winery",
+        "deskripsi": "region: Mondstadt, famous place: Dawn Winery"
+    },
+    {
+        "img": "https://files.catbox.moe/igupnt.jpeg",
+        "jawaban": "Dragonspine",
+        "deskripsi": "region: Mondstadt, famous place: Dragonspine"
+    },
+    {
+        "img": "https://files.catbox.moe/luhsvt.jpeg",
+        "jawaban": "Liyue Harbor",
+        "deskripsi": "region: Liyue, famous place: Liyue Harbor"
+    },
+    {
+        "img": "https://files.catbox.moe/z0z51d.jpeg",
+        "jawaban": "Wangshu Inn",
+        "deskripsi": "region: Liyue, famous place: Wangshu Inn"
+    }
+]
