@@ -1,0 +1,218 @@
+[
+  {
+    "img": "https://files.catbox.moe/rp0f4w.jpg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Kota kuno Inca yang terletak di pegunungan Andes.'",
+    "pilihan": [
+      "Machu Picchu",
+      "Eiffel Tower",
+      "Christ the Redeemer",
+      "Sydney Opera House"
+    ],
+    "jawaban": "Machu Picchu",
+    "deskripsi": "Machu Picchu terletak di Cusco Region, Peru. Kota kuno Inca yang terletak di pegunungan Andes."
+  },
+  {
+    "img": "https://files.catbox.moe/2kowmu.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Taman nasional dengan danau biru jernih dan pegunungan megah.'",
+    "pilihan": [
+      "Sagrada Familia",
+      "Taj Mahal",
+      "Banff National Park",
+      "Statue of Liberty"
+    ],
+    "jawaban": "Banff National Park",
+    "deskripsi": "Banff National Park terletak di Alberta, Canada. Taman nasional dengan danau biru jernih dan pegunungan megah."
+  },
+  {
+    "img": "https://files.catbox.moe/mhufbz.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Kompleks piramida kuno yang menjadi makam para firaun Mesir.'",
+    "pilihan": [
+      "Burj Khalifa",
+      "Sydney Opera House",
+      "Pyramids of Giza",
+      "Great Wall of China"
+    ],
+    "jawaban": "Pyramids of Giza",
+    "deskripsi": "Pyramids of Giza terletak di Giza, Egypt. Kompleks piramida kuno yang menjadi makam para firaun Mesir."
+  },
+  {
+    "img": "https://files.catbox.moe/fyfn5g.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Patung besar Yesus Kristus yang terletak di atas gunung Corcovado.'",
+    "pilihan": [
+      "Banff National Park",
+      "Colosseum",
+      "Machu Picchu",
+      "Christ the Redeemer"
+    ],
+    "jawaban": "Christ the Redeemer",
+    "deskripsi": "Christ the Redeemer terletak di Rio de Janeiro, Brazil. Patung besar Yesus Kristus yang terletak di atas gunung Corcovado."
+  },
+  {
+    "img": "https://files.catbox.moe/zx241w.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Air terjun spektakuler di perbatasan Kanada dan Amerika Serikat.'",
+    "pilihan": [
+      "Petra",
+      "Machu Picchu",
+      "Niagara Falls",
+      "Taj Mahal"
+    ],
+    "jawaban": "Niagara Falls",
+    "deskripsi": "Niagara Falls terletak di Ontario/New York, Canada/USA. Air terjun spektakuler di perbatasan Kanada dan Amerika Serikat."
+  },
+  {
+    "img": "https://files.catbox.moe/0a86nn.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Kompleks reruntuhan kuno yang menjulang di atas kota Athena.'",
+    "pilihan": [
+      "Niagara Falls",
+      "Acropolis",
+      "Petra",
+      "Burj Khalifa"
+    ],
+    "jawaban": "Acropolis",
+    "deskripsi": "Acropolis terletak di Athens, Greece. Kompleks reruntuhan kuno yang menjulang di atas kota Athena."
+  },
+  {
+    "img": "https://files.catbox.moe/lf76ix.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Jam besar terkenal di menara Elizabeth Tower, ikon kota London.'",
+    "pilihan": [
+      "Big Ben",
+      "Sydney Opera House",
+      "Statue of Liberty",
+      "Niagara Falls"
+    ],
+    "jawaban": "Big Ben",
+    "deskripsi": "Big Ben terletak di London, United Kingdom. Jam besar terkenal di menara Elizabeth Tower, ikon kota London."
+  },
+  {
+    "img": "https://files.catbox.moe/yizjgh.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Patung kebebasan yang menjadi simbol kebebasan dan demokrasi Amerika Serikat.'",
+    "pilihan": [
+      "Great Wall of China",
+      "Mount Fuji",
+      "Statue of Liberty",
+      "Angkor Wat"
+    ],
+    "jawaban": "Statue of Liberty",
+    "deskripsi": "Statue of Liberty terletak di New York, United States. Patung kebebasan yang menjadi simbol kebebasan dan demokrasi Amerika Serikat."
+  },
+  {
+    "img": "https://files.catbox.moe/zfht3e.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Gedung pertunjukan dengan desain unik yang terletak di pelabuhan Sydney.'",
+    "pilihan": [
+      "Petra",
+      "Mount Fuji",
+      "Sydney Opera House",
+      "Acropolis"
+    ],
+    "jawaban": "Sydney Opera House",
+    "deskripsi": "Sydney Opera House terletak di Sydney, Australia. Gedung pertunjukan dengan desain unik yang terletak di pelabuhan Sydney."
+  },
+  {
+    "img": "https://files.catbox.moe/qirtgu.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Tembok raksasa yang dibangun untuk melindungi Tiongkok dari serangan musuh.'",
+    "pilihan": [
+      "Petra",
+      "Banff National Park",
+      "Great Wall of China",
+      "Taj Mahal"
+    ],
+    "jawaban": "Great Wall of China",
+    "deskripsi": "Great Wall of China terletak di Beijing, China. Tembok raksasa yang dibangun untuk melindungi Tiongkok dari serangan musuh."
+  },
+  {
+    "img": "https://files.catbox.moe/ebu0ry.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Kompleks candi Hindu terbesar di dunia.'",
+    "pilihan": [
+      "Great Wall of China",
+      "Acropolis",
+      "Angkor Wat",
+      "Petra"
+    ],
+    "jawaban": "Angkor Wat",
+    "deskripsi": "Angkor Wat terletak di Siem Reap, Cambodia. Kompleks candi Hindu terbesar di dunia."
+  },
+  {
+    "img": "https://files.catbox.moe/dbvtjp.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Gedung tertinggi di dunia yang menjulang di langit Dubai.'",
+    "pilihan": [
+      "Taj Mahal",
+      "Burj Khalifa",
+      "Statue of Liberty",
+      "Sagrada Familia"
+    ],
+    "jawaban": "Burj Khalifa",
+    "deskripsi": "Burj Khalifa terletak di Dubai, United Arab Emirates. Gedung tertinggi di dunia yang menjulang di langit Dubai."
+  },
+  {
+    "img": "https://files.catbox.moe/n4614s.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Pulau indah dengan rumah bercat putih dan kubah biru di Laut Aegea.'",
+    "pilihan": [
+      "Pyramids of Giza",
+      "Sydney Opera House",
+      "Santorini",
+      "Christ the Redeemer"
+    ],
+    "jawaban": "Santorini",
+    "deskripsi": "Santorini terletak di Santorini, Greece. Pulau indah dengan rumah bercat putih dan kubah biru di Laut Aegea."
+  },
+  {
+    "img": "https://files.catbox.moe/382w1p.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Gunung berapi ikonik dan tertinggi di Jepang, sering dijadikan objek fotografi.'",
+    "pilihan": [
+      "Mount Fuji",
+      "Sagrada Familia",
+      "Taj Mahal",
+      "Eiffel Tower"
+    ],
+    "jawaban": "Mount Fuji",
+    "deskripsi": "Mount Fuji terletak di Honshu, Japan. Gunung berapi ikonik dan tertinggi di Jepang, sering dijadikan objek fotografi."
+  },
+  {
+    "img": "https://files.catbox.moe/km4qdl.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Kota kuno yang dipahat di batu pasir, dikenal sebagai 'Kota Mawar'.'",
+    "pilihan": [
+      "Sydney Opera House",
+      "Eiffel Tower",
+      "Petra",
+      "Acropolis"
+    ],
+    "jawaban": "Petra",    
+    "deskripsi": "Petra terletak di Ma'an, Jordan. Kota kuno yang dipahat di batu pasir, dikenal sebagai 'Kota Mawar'."
+  },
+  {
+    "img": "https://files.catbox.moe/srzwad.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Mausoleum marmer putih yang dibangun oleh Shah Jahan untuk mengenang istrinya.'",
+    "pilihan": [
+      "Niagara Falls",
+      "Taj Mahal",
+      "Petra",
+      "Colosseum"
+    ],
+    "jawaban": "Taj Mahal",
+    "deskripsi": "Taj Mahal terletak di Agra, India. Mausoleum marmer putih yang dibangun oleh Shah Jahan untuk mengenang istrinya."
+  },
+  {
+    "img": "https://files.catbox.moe/iut6jz.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Arena gladiator kuno di Roma yang menjadi simbol kekaisaran Romawi.'",
+    "pilihan": [
+      "Santorini",  
+      "Machu Picchu",
+      "Colosseum",
+      "Blue Lagoon"
+    ],
+    "jawaban": "Colosseum",
+    "deskripsi": "Colosseum terletak di Rome, Italy. Arena gladiator kuno di Roma yang menjadi simbol kekaisaran Romawi."
+  },
+  {
+    "img": "https://files.catbox.moe/ojav85.jpeg",
+    "soal": "Tempat apakah yang dimaksud dalam deskripsi berikut? 'Menara besi ikonik yang terletak di Paris, sering menjadi simbol kota cinta.'",
+    "pilihan": [
+      "Blue Lagoon",
+      "Niagara Falls",
+      "Eiffel Tower",
+      "Taj Mahal"
+    ],
+    "jawaban": "Eiffel Tower",
+    "deskripsi": "Eiffel Tower terletak di Paris, France. Menara besi ikonik yang terletak di Paris, sering menjadi simbol kota cinta."
+  }
+]
